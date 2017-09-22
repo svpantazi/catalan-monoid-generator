@@ -5,7 +5,7 @@ unit catalan_monoid_utils;
   first release: 02/12/2016 05:16:38 PM
   updated: 01/10/2017 02:18:55 PM
   updated: 03/12/2017 09:18:11 PM
-
+  S.V.Pantazi (svpantazi@gmail.com)
 }
 
 {$mode objfpc}{$H+}
