@@ -4,17 +4,30 @@ Algorithm to generate all elements of Catalan monoids
 Catalan Monoid Generator
 
 File list:
+
 	README.txt				this file
+	
 	license.txt				the GPL license file
+	
 	generate_catalan_monoid.pp		the main algorithm source file
+	
 	catalan_utils.pas			utility functions
+	
 	generate_catalan_monoid.lpi		Lazarus-IDE project file
-	n_3_output_example.txt			example algorithm output file for n=3
-	n_3_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
-	n_4_output_example.txt			example algorithm output file for n=4
-	n_4_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
-	n_5_output_example.txt			example algorithm output file for n=5
-	n_5_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
+	
+	examples
+
+		n_3_output_example.txt			example algorithm output file for n=3
+	
+		n_3_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
+	
+		n_4_output_example.txt			example algorithm output file for n=4
+	
+		n_4_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
+	
+		n_5_output_example.txt			example algorithm output file for n=5
+	
+		n_5_output_example.txt.pdf		same as above but as a pdf (to preserve alignment)
 	
 Build intructions
 
