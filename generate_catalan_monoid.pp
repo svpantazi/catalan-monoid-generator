@@ -3,24 +3,7 @@ program generate_catalan_monoid;
   first release: 02/12/2016 05:16:38 PM
   updated: 01/10/2017 02:18:55 PM
   updated: 03/12/2017 09:18:11 PM
-
-  Copyright (C) 2016-2017  S. V. Pantazi (svpantazi@gmail.com) & T. Spircu (tspircu@gmail.com)
-
-  This source is free software; you can redistribute it and/or modify it under
-  the terms of the GNU General Public License as published by the Free
-  Software Foundation; either version 2 of the License, or (at your option)
-  any later version.
-
-  This code is distributed in the hope that it will be useful, but WITHOUT ANY
-  WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-  FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
-  details.
-
-  A copy of the GNU General Public License is available on the World Wide Web
-  at <http://www.gnu.org/copyleft/gpl.html>. You can also obtain it by writing
-  to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston,
-  MA 02111-1307, USA.
-}
+  S.V.Pantazi (svpantazi@gmail.com)}
 
 uses sysutils,catalan_monoid_utils;
 
